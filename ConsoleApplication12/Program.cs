@@ -10,7 +10,7 @@ namespace ConsoleApplication12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("God is Great!!!")
+            Console.WriteLine("God is Great!!!");
             Console.ReadLine();
         }
     }
